@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = samjneat@gmail.com
+	name = sam neat
